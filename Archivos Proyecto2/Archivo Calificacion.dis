@@ -1,0 +1,185 @@
+[Principal]: 
+	{
+	[ENEMIGO]:
+		{
+			[Caminata]:(9..13, 2);
+		}
+	[NIVEL]: 
+		{
+		[DimenSiones]:(20, 15);
+		[InIcio_personaje]:(0, 8);
+		[Ubicacion_SalIda]:(17, 1);
+		
+		[Pared]: {
+		
+			[Varias_Casillas]:(0, 0..2);
+			[Varias_Casillas]:(0..1,6..7);
+			[Casilla]:(0, 10);
+			[Casilla]:(0, 14);
+			
+			[Casilla]:(1, 2);
+			[Casilla]:(1, 4);
+			[Casilla]:(1, 8);
+			[Casilla]:(1, 10);
+			[Casilla]:(1, 12);
+			
+			[Varias_Casillas]:(2, 1..2);
+			[Casilla]:(2, 4);
+			[Casilla]:(2, 13);
+			
+			[Varias_Casillas]:(3, 4..5);
+			[Varias_Casillas]:(3, 8..10);
+			
+			[Varias_Casillas]:(4, 1..3);
+			[Casilla]:(4, 6);
+			[Casilla]:(4, 9);
+			[Casilla]:(4, 12);
+			[Casilla]:(4, 14);
+			
+			[Casilla]:(5, 1);
+			[Varias_Casillas]:(5..8, 5..6);
+			[Casilla]:(5, 7);
+			[Varias_Casillas]:(5, 9..10);
+			[Casilla]:(5, 12);
+			[Casilla]:(5, 14);
+			
+			[Casilla]:(6, 1);
+			[Casilla]:(6, 3);
+			[Casilla]:(6, 12);
+			[Casilla]:(6, 14);
+			
+			[Casilla]:(7, 3);
+			[Varias_Casillas]:(7, 9..10);
+			
+			[Varias_Casillas]:(8..9, 0..1);
+			[Varias_Casillas]:(8, 2..3);
+			[Varias_Casillas]:(8, 8..10);
+			[Casilla]:(8, 13);
+			
+			[Casilla]:(9, 3);
+			[Casilla]:(9, 6);
+			[Varias_Casillas]:(9, 10..12);
+			
+			
+			
+			
+			
+			
+			[Varias_Casillas]:(10..12, 0);
+			[Varias_Casillas]:(16..19, 0);
+			
+			[Casilla]:(12, 1);
+			[Casilla]:(14, 1);
+			[Casilla]:(16, 1);
+			
+			[Varias_Casillas]:(16..17, 2..4);
+			[Casilla]:(18, 2);
+			
+			[Casilla]:(14, 3);
+			
+			[Varias_Casillas]:(10..12, 4);
+			[Casilla]:(14, 4);			
+			[Casilla]:(19, 4);		
+			
+			[Casilla]:(12, 5);			
+			[Casilla]:(14, 5);			
+			[Casilla]:(17, 5);			
+			[Casilla]:(19, 5);			
+			
+			[Casilla]:(12, 6);
+			[Varias_Casillas]:(14..15, 6..7);
+			[Casilla]:(19, 6);
+			
+			[Varias_Casillas]:(11..12, 7);
+			[Varias_Casillas]:(16..19, 7);
+		
+			[Casilla]:(12, 8);
+			[Casilla]:(15, 8);
+
+			[Varias_Casillas]:(11..13, 9);
+			[Casilla]:(15, 9);
+			[Varias_Casillas]:(17..18, 9);
+			
+			[Casilla]:(11, 10);
+			[Casilla]:(13, 10);
+			[Casilla]:(15, 10);
+			[Casilla]:(18, 10);
+			
+			[Casilla]:(13, 11);
+			[Casilla]:(16, 11);
+			[Casilla]:(18, 11);
+			
+			[Casilla]:(10, 12);
+			[Casilla]:(12, 12);
+			[Casilla]:(14, 12);
+			
+			[Varias_Casillas]:(14..16, 13);
+			[Casilla]:(18, 13);
+			
+			[Casilla]:(10, 14);
+			[Casilla]:(12, 14);
+			
+			
+		}
+	}
+	[INTERVALO]:(300);
+
+	[ENEMIGO]:{
+		[Caminata]:(3, 11..14);
+	}
+	
+	[INTERVALO]:(1000);
+
+	[PERSONAJE]:{
+
+			
+			
+			[Paso]:(0, 9);	
+			[Caminata]:(1..2,9);
+			[Caminata]:(2,10..11);
+			[Caminata]:(3..7,11);
+			[Caminata]:(7,12..14);
+			[Paso]:(8, 14);	
+			[Paso]:(9, 14);	
+			[Paso]:(9, 13);	
+			[Caminata]:(10..13,13);
+			[Paso]:(13, 14);	
+			[Caminata]:(14..19,14);
+			[Paso]:(19, 13);
+			[Paso]:(19, 12);
+			[Paso]:(18, 12);
+			[Paso]:(17, 12);
+			[Paso]:(16, 12);
+			[Paso]:(15, 12);
+			[Paso]:(15, 11);
+			[Paso]:(14, 11);
+			[Paso]:(14, 10);
+			[Paso]:(14, 9);
+			[Paso]:(14, 8);
+			[Paso]:(13, 8);
+			[Paso]:(13, 7);
+			[Paso]:(13, 6);
+			[Paso]:(13, 5);
+			[Paso]:(13, 4);
+			[Paso]:(13, 3);
+			[Paso]:(13, 2);
+			[Caminata]:(14..15, 2);
+			[Caminata]:(15, 3..5);
+			[Paso]:(16, 5);
+			[Paso]:(16, 6);
+			[Caminata]:(17..18, 6);
+			[Paso]:(18, 5);
+			[Paso]:(18, 4);
+			[Paso]:(18, 3);
+			[Paso]:(19, 3);
+			[Paso]:(19, 2);
+			[Paso]:(19, 1);
+			[Paso]:(18, 1);
+			[Paso]:(17, 1);
+
+		}
+	[ENEMIGO]:{
+		[Caminata]:(10, 5..11);
+	}
+	
+}
