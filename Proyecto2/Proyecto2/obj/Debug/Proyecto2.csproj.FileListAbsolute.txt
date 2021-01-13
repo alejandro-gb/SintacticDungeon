@@ -1,0 +1,36 @@
+C:\Users\aleja\Desktop\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\aleja\Desktop\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\aleja\Desktop\Proyecto2\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\aleja\Desktop\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csprojAssemblyReference.cache
+C:\Users\aleja\Desktop\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Principal.resources
+C:\Users\aleja\Desktop\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Properties.Resources.resources
+C:\Users\aleja\Desktop\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.GenerateResource.cache
+C:\Users\aleja\Desktop\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Desktop\Proyecto2\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\aleja\Desktop\Proyecto2\Proyecto2\obj\Debug\Proyecto2.pdb
+C:\Users\aleja\Desktop\Proyecto2\Proyecto2\obj\Debug\Proyecto2.About.resources
+C:\Users\aleja\Desktop\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Game.resources
+C:\Users\aleja\Desktop\Universidad\18 SEGUNDO SEMESTRE\LENGUAJES FORMALES\PROYECTO2\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\aleja\Desktop\Universidad\18 SEGUNDO SEMESTRE\LENGUAJES FORMALES\PROYECTO2\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\aleja\Desktop\Universidad\18 SEGUNDO SEMESTRE\LENGUAJES FORMALES\PROYECTO2\Proyecto2\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\aleja\Desktop\Universidad\18 SEGUNDO SEMESTRE\LENGUAJES FORMALES\PROYECTO2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csprojAssemblyReference.cache
+C:\Users\aleja\Desktop\Universidad\18 SEGUNDO SEMESTRE\LENGUAJES FORMALES\PROYECTO2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.About.resources
+C:\Users\aleja\Desktop\Universidad\18 SEGUNDO SEMESTRE\LENGUAJES FORMALES\PROYECTO2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Game.resources
+C:\Users\aleja\Desktop\Universidad\18 SEGUNDO SEMESTRE\LENGUAJES FORMALES\PROYECTO2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Principal.resources
+C:\Users\aleja\Desktop\Universidad\18 SEGUNDO SEMESTRE\LENGUAJES FORMALES\PROYECTO2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Properties.Resources.resources
+C:\Users\aleja\Desktop\Universidad\18 SEGUNDO SEMESTRE\LENGUAJES FORMALES\PROYECTO2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.GenerateResource.cache
+C:\Users\aleja\Desktop\Universidad\18 SEGUNDO SEMESTRE\LENGUAJES FORMALES\PROYECTO2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Desktop\Universidad\18 SEGUNDO SEMESTRE\LENGUAJES FORMALES\PROYECTO2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\aleja\Desktop\Universidad\18 SEGUNDO SEMESTRE\LENGUAJES FORMALES\PROYECTO2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.pdb
+C:\Users\aleja\Desktop\[LFP]P2_201700801\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\aleja\Desktop\[LFP]P2_201700801\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\aleja\Desktop\[LFP]P2_201700801\Proyecto2\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\aleja\Desktop\[LFP]P2_201700801\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csprojAssemblyReference.cache
+C:\Users\aleja\Desktop\[LFP]P2_201700801\Proyecto2\Proyecto2\obj\Debug\Proyecto2.About.resources
+C:\Users\aleja\Desktop\[LFP]P2_201700801\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Game.resources
+C:\Users\aleja\Desktop\[LFP]P2_201700801\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Principal.resources
+C:\Users\aleja\Desktop\[LFP]P2_201700801\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Properties.Resources.resources
+C:\Users\aleja\Desktop\[LFP]P2_201700801\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.GenerateResource.cache
+C:\Users\aleja\Desktop\[LFP]P2_201700801\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Desktop\[LFP]P2_201700801\Proyecto2\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\aleja\Desktop\[LFP]P2_201700801\Proyecto2\Proyecto2\obj\Debug\Proyecto2.pdb
