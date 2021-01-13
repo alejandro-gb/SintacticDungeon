@@ -1,0 +1,69 @@
+[Principal]: {
+	[Enemigo]:{
+			[Caminata]:(1,3..8);
+	}
+	[Nivel]: {
+		[Dimensiones]:(15, 10);
+		[Inicio_personaje]:(1, 1);
+		[Ubicacion_Salida]:(14, 9);
+		[Pared]: {
+			[Variable]:a,b,c;
+			[Variable]:maxX, maxY;
+			[Variable]:v1,v2,v3;
+			a:=5;
+			b:=2*a;
+			c:=b-10;
+			maxX:=14;
+			maxY:=9;
+			v1:=4000/20;
+			v1:=v1-196;
+			[Varias_Casillas]:(c, 0..maxY);
+			[Varias_Casillas]:(c..maxX, c);
+			[Varias_Casillas]:(c..maxX, maxY);
+			[Varias_Casillas]:(maxX, 0..8);
+			[Varias_Casillas]:(3, 6..8);
+			[Varias_Casillas]:(5, 2..5);
+			[Varias_Casillas]:(3..5, v1);
+			[Varias_Casillas]:(7..10, 3);
+			[Varias_Casillas]:(7..9, v1);
+			[Casilla]:(7, v1);
+			[Casilla]:(10, 5);
+			v1:=v1/2;
+			v2:=v1+4;
+			[Varias_Casillas]:(v2..9, 8);
+			[Varias_Casillas]:(12..13, 7);
+			[Varias_Casillas]:(3, 8..9);
+			[Casilla]:(12, 7);
+			[Varias_Casillas]:(12, v1..5);
+			[Varias_Casillas]:(13, v1..5);	
+			[Casilla]:(10, 7);
+			[Varias_Casillas]:(v2..7, v2);
+			[Varias_Casillas]:(1..3, v1);
+		}
+	}
+	[Intervalo]:(300);
+	[Personaje]:{
+		[Variable]:a,b,c;
+		a:=121/11;
+		b:=50-48;
+		[Caminata]:(1..4, 1);
+		[Caminata]:(4, 1..3);
+		[Caminata]:(4..b, 3);
+		[Caminata]:(b, 3..5);
+		[Caminata]:(b..4, 5);	
+		[Paso]:(4, 6);
+		[Paso]:(5, 6);
+		[Paso]:(5, 7);
+		[Caminata]:(5..8, 7);
+		[Caminata]:(8, 7..5);
+		[Caminata]:(8..6, 5);
+		[Caminata]:(6, 5..b);
+		[Caminata]:(6..a, b);
+		[Caminata]:(a, b..8);
+		[Caminata]:(a..14, 8);
+		[Paso]:(14, 9);
+	}
+	[Enemigo]:{
+		[Caminata]:(5..13, 1);
+	}
+}

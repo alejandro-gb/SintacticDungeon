@@ -1,0 +1,45 @@
+<A>------------------->[Principal]:{<B>}
+<B>------------------->[Intervalo]:(num)<C>;
+<C>-------------------><BN>
+			           |<BE>
+					   |<BP>
+					   |E
+<BN>------------------>[Nivel]:{<BNC>}<C>
+<BNC>-----------------><D><IP><US><P>
+<D>------------------->[Dimensiones]:(num,num);
+<IP>------------------>[Inicio_personaje]:(num,num);
+<US>------------------>[Ubicacion_Salida]:(num,num);
+<P>------------------->[Pared]:{<E>}
+<E>-------------------><Casilla>
+				       |<VariasCasillas>
+					   |<Variable>
+					   |<Asignacion>
+					   |E 
+<Casilla>------------->[Casilla]:(num,num);<E>
+<VariasCasillas>------>[Varias_Casillas]:(<Opciones>);<E>
+<Variable>------------>[Variable]:<I>;<E>
+<Asignacion>---------->identificador:=<J>;
+<J>------------------->identificador
+					   |num
+					   |<Expresion>
+<Expresion>------------><Opciones3>operador<Opciones3>
+<Opciones3>------------>identificador
+					    |num
+<I>------------------->identificador
+					   |,<I> 
+<Opciones>------------>num..num,num
+				       |num,num..num
+					   |num..num,num..num
+<BE>------------------>[Enemigo]:{<F>}<C>
+					   |E
+<F>-------------------><Caminata>
+					   |E 
+<Caminata>------------>[Caminata]:(<Opciones2>);<F>
+<Opciones2>----------->num..num,num
+					   |num,num..num
+<BP>------------------>[Personaje]:{<G>}<C>
+<G>-------------------><Paso>
+					   |<Caminata2>
+					   |E 
+<Paso>---------------->[Paso]:(num,num);
+<Caminata2>----------->[Caminata]:(<Opciones2>);<G>
